@@ -3,10 +3,10 @@
 	"credit": "Made with Blockbench",
 	"render_type": "minecraft:cutout_mipped",
 	"textures": {
-		"1": "aeronauticadditions:block/texture",
+		"1": "aeronauticadditions:block/aeronautic_chunk_loader",
 		"2": "aeronauticadditions:block/happy_ghast",
 		"3": "aeronauticadditions:block/water",
-		"particle": "aeronauticadditions:block/water"
+		"particle": "aeronauticadditions:block/aeronautic_chunk_loader"
 	},
 	"elements": [
 		{
