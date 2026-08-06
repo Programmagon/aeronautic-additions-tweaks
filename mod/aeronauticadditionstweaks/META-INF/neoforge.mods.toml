@@ -1,6 +1,6 @@
 modLoader="lowcodefml"
 loaderVersion="[0,)"
-license="MIT"
+license="GPL 3.0"
 
 [[mods]]
 modId="aeronauticadditionstweaks"
