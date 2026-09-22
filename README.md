@@ -32,3 +32,7 @@ Player Compass:
 Directional Compass:
 
 <img src=".README/directional_compass_recipe.png">
+
+
+
+Everything was made without any help of generative AI. 
