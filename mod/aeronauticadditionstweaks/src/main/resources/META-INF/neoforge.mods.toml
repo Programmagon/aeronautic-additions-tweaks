@@ -1,6 +1,10 @@
+
 modLoader="lowcodefml"
-loaderVersion="[0,)"
-license="GPL 3.0"
+loaderVersion="[1,)"
+license="GPL-3.0-only"
+
+showAsResourcePack=true
+showAsDataPack=true
 
 [[mods]]
 modId="aeronauticadditionstweaks"
@@ -13,14 +17,14 @@ logoFile="logo.png"
 [[dependencies.aeronauticadditionstweaks]]
     modId="neoforge"
     type="required"
-    versionRange="[21.0,)"
+    versionRange="[21.1,)"
     ordering="NONE"
     side="BOTH"
 
 [[dependencies.aeronauticadditionstweaks]]
     modId="minecraft"
     type="required"
-    versionRange="[1.21,1.22)"
+    versionRange="[1.21.1,1.22)"
     ordering="NONE"
     side="BOTH"
 
