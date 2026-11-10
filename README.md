@@ -1,1 +1,1 @@
-Texture and recipe tweaks to the Aeronautic Additions and ChunkLoader modaeronautic_chunk_loader
+Texture and recipe tweaks to the Aeronautic Additions and ChunkLoader mod
